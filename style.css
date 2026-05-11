@@ -39,7 +39,15 @@ img {
     backdrop-filter: blur(10px);
     padding: 20px 0;
 }
-
+.about-content {
+    text-align: center;
+}
+.about-content h2{
+display: inline;
+    border-bottom: 5px solid #fd0000;
+    padding-bottom: 3px;
+    margin-bottom: 23px;
+}
 .nav-wrapper {
     display: flex;
     justify-content: space-between;
